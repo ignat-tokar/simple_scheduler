@@ -1,15 +1,15 @@
 # simple_scheduler
-## Установка
-**У вас должен быть установлен docker**
+## Installing
+**You must have be installed docker on your computer**
 
-Скачайте папку проекта и откройте ее в терминале, после введите команду: 
+Download folder of the project and open it in terminal, after put the next command:
 `docker-compose build`
 
-Дождитесь создание образов, после введите команду: 
+Wait for building an images and put the next command:
 `docker-compose up`
 
-Дождитесь запуска, после откройте браузер и введите в строку адреса: 
+Wait for launching server, open browser and put next adress in the search field:
 `http://localhost:3000`
 
-## Описание
-Простое API, которое копирует функционал приложения типа `To do`.
+## Description
+Simple API, that repliciate funcionality of application `To do`.
